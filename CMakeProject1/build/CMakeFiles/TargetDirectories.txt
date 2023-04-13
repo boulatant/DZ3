@@ -1,0 +1,6 @@
+C:/Users/bulat/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/bulat/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/edit_cache.dir
+C:/Users/bulat/source/repos/CMakeProject1/CMakeProject1/build/CMakeProject1/CMakeFiles/rebuild_cache.dir
+C:/Users/bulat/source/repos/CMakeProject1/CMakeProject1/build/CMakeProject1/CMakeFiles/edit_cache.dir
+C:/Users/bulat/source/repos/CMakeProject1/CMakeProject1/build/CMakeProject1/CMakeFiles/CMakeProject1.dir
+C:/Users/bulat/source/repos/CMakeProject1/CMakeProject1/build/CMakeProject1/CMakeFiles/inout.dir

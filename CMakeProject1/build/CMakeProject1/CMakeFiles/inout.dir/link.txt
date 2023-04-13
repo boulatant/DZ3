@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -shared -Wl,--enable-auto-import -o cyginout.dll -Wl,--out-implib,libinout.dll.a -Wl,--major-image-version,0,--minor-image-version,0 CMakeFiles/inout.dir/inoutlib/src/print.cpp.o CMakeFiles/inout.dir/inoutlib/src/read.cpp.o 
